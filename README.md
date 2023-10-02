@@ -4,3 +4,6 @@
 
 * Only allows formatting of removable drives
 * Automatically detect drive changes and refresh view
+
+
+Uses [fat32format](https://github.com/0xbadfca11/fat32format)
